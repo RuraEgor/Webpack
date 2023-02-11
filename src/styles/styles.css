@@ -1,0 +1,11 @@
+@import 'normalize.css';
+
+body {
+    background-color: #ffffff;
+    min-width: 100vw;
+    min-height: 100vh;
+    /*background-image: url("../assets/img/2.jpeg");*/
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
